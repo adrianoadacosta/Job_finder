@@ -1,0 +1,25 @@
+# Dependências
+/node_modules
+
+# Arquivos de build
+/build
+/dist
+
+# Arquivos de configuração
+.env
+
+# Arquivos de log
+*.log
+
+# Arquivos de banco de dados (SQLite)
+*.db
+
+# Arquivos de backup
+*.bak
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
